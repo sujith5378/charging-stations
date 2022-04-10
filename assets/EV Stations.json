@@ -1,0 +1,162 @@
+{
+  "Tamil Nadu":[
+    {
+      "city" : "Coimbatore",
+      "name" : "evpass Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Coimbatore",
+      "name" : "Tata Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Chennai",
+      "name" : "VEEV Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Madurai",
+      "name" : "Ather Charging Station",
+      "available" : "Yes",
+      "currentType" : "AC"
+    },
+    {
+      "city" : "Chennai",
+      "name" : "Zeon Charging Station",
+      "available" : "Yes",
+      "currentType" : "AC"
+    }
+  ],
+  "Kerala" : [
+    {
+      "city" : "Thrissur",
+      "name" : "Ather Charging Station",
+      "available" : "No",
+      "currentType" : "AC"
+    },
+    {
+      "city" : "Thrissur",
+      "name" : "Zeon Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Kollam",
+      "name" : "Grid Charging Station",
+      "available" : "No",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Kochi",
+      "name" : "Tesla Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Kochi",
+      "name" : "MG Charging Station",
+      "available" : "Yes",
+      "currentType" : "AC"
+    }
+  ],
+  "Andhra" : [
+    {
+      "city" : "Hyderabad",
+      "name" : "EVRE Charging Station",
+      "available" : "Yes",
+      "currentType" : "AC"
+    },
+    {
+      "city" : "Hyderabad",
+      "name" : "Zeon Charging Station",
+      "available" : "No",
+      "currentType" : "AC"
+    },
+    {
+      "city" : "Vishakapatinam",
+      "name" : "Grid Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Eluru",
+      "name" : "Tata Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Anantapur",
+      "name" : "Chazer Charging Station",
+      "available" : "Yes",
+      "currentType" : "AC"
+    }
+  ],
+    "Karnataka" : [
+    {
+      "city" : "Bangalore",
+      "name" : "Ather Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Bangalore",
+      "name" : "Zeon Charging Station",
+      "available" : "No",
+      "currentType" : "AC"
+    },
+    {
+      "city" : "Mangalore",
+      "name" : "Tesla Charging Station",
+      "available" : "Yes",
+      "currentType" : "AC"
+    },
+    {
+      "city" : "Mysuru",
+      "name" : "Zeon Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Mysuru",
+      "name" : "Ather Charging Station",
+      "available" : "No",
+      "currentType" : "AC"
+    }
+  ],
+  "Delhi" : [
+    {
+      "city" : "Delhi",
+      "name" : "PlugNgo Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Delhi",
+      "name" : "Zeon Charging Station",
+      "available" : "No",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Delhi",
+      "name" : "EVRE Charging Station",
+      "available" : "Yes",
+      "currentType" : "AC"
+    },
+    {
+      "city" : "Ghaziabad",
+      "name" : "Sahara Charging Station",
+      "available" : "Yes",
+      "currentType" : "DC"
+    },
+    {
+      "city" : "Noida",
+      "name" : "MG Charging Station",
+      "available" : "Yes",
+      "currentType" : "AC"
+    }
+  ]
+}
